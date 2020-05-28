@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9dca503-3126-4656-ac3f-dff5555b2a59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1WeGcG9tC2XvHXRgLm1DEWNFOr1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/templates/first_app" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bipin Gowda\PycharmProjects\GodsEye\api\templates\first_app" />
+      <recent name="C:\Users\Bipin Gowda\PycharmProjects\GodsEye\api\api\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bipin Gowda\PycharmProjects\GodsEye\api\static\css" />
+      <recent name="C:\Users\Bipin Gowda\PycharmProjects\GodsEye\api\media\output" />
+      <recent name="C:\Users\Bipin Gowda\PycharmProjects\GodsEye\api\media\videos" />
+      <recent name="C:\Users\Bipin Gowda\PycharmProjects\GodsEye\api\" />
+      <recent name="C:\Users\Bipin Gowda\PycharmProjects\GodsEye\api" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9dca503-3126-4656-ac3f-dff5555b2a59" name="Default Changelist" comment="" />
+      <created>1579502724326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579502724326</updated>
+    </task>
+    <task id="LOCAL-00001" summary="babu">
+      <created>1590073937219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590073937219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="babu" />
+    <option name="LAST_COMMIT_MESSAGE" value="babu" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590650896166">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1590650896166" />
+    <state x="391" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587128459308">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="391" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.683@0.0.1280.683" timestamp="1587128459308" />
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1590073936244">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.683@0.0.1280.683" timestamp="1590073936244" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1586851386638">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.683@0.0.1280.683" timestamp="1586851386638" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1590651131611">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.683@0.0.1280.683" timestamp="1589544844265" />
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1590651131611" />
+    <state x="349" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1590651112735">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.683@0.0.1280.683" timestamp="1590567069822" />
+    <state x="349" y="177" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1590651112735" />
+    <state x="452" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590073945751">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="452" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.683@0.0.1280.683" timestamp="1590073945751" />
+    <state x="303" y="3" width="672" height="678" key="search.everywhere.popup" timestamp="1590002881922">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="303" y="3" width="672" height="678" key="search.everywhere.popup/0.0.1280.683@0.0.1280.683" timestamp="1590002881922" />
+  </component>
+</project>
